@@ -185,6 +185,19 @@ main > section{
     filter: grayscale(100%);
 }
 
+/* footer related styles */
+footer{
+    background-color: #FFF4E7;
+    padding: 40px 0;
+    margin-top: 169px;
+    max-height: 100px;
+    text-align: center;
+}
+footer p{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, 
